@@ -48,7 +48,7 @@ When doing work on new languages, you are free to use the features and tags you
 see most fit. I definitely see the point of standardisation, and I would
 encourage using tags that are easily convertible to either UniMorph or UD
 schemes (see below for why conversion is needed). That is, if you feel strongly
-for using +NOUN instead of just +N, feel free to do that.
+for using `+NOUN` instead of just `+N`, feel free to do that.
 
 In defence of the present GiellaLT tag set, shorter tags mean less typing. We
 also use different classes of tags in various ways by way of their form (UPPER,
@@ -112,24 +112,24 @@ syntaxes.
 
 ## Default syntax (aka GiellaLT tags, GT tags, Xerox tags)
 
-* tag separator: + — for prefix tags, the separator follow the tag, for suffix
-  tags it precedes the tag; infix tags are discouraged (see below)
-* POS tags: Init case (e.g. Adv)
-* SUBPOS tags: Init case (e.g. Prop)
+* tag separator: `+` — for prefix tags, the separator follow the tag, for
+  suffix tags it precedes the tag; infix tags are discouraged (see below)
+* POS tags: Init case (e.g. `Adv`)
+* SUBPOS tags: Init case (e.g. `Prop`)
 * feature tags: Init case/mixed case
-* Tags optional for generation: tag prefix Gram/
-* Semantic tags: tag prefix Sem/
-* tags for specific applications: tag prefix Use/ (see also below)
-* error tags (ie violation of a norm): tag prefix Err/
+* Tags optional for generation: tag prefix `Gram/`
+* Semantic tags: tag prefix `Sem/`
+* tags for specific applications: tag prefix `Use/` (see also below)
+* error tags (ie violation of a norm): tag prefix `Err/`
 
 ### Other supported tag syntaxes (conversion to these formats from GT is mostly automatic)
 
-* CG compatible GiellaLT tags: the + separator is automatically converted to a
-  space, compounds are rendered using sub-readings, to make only the last part
-  of the compound visible to the default CG processing
-* Apertium tags: Apertium encapsulates all tags in <>, and use only lowercase.
-  FST's intended for use with Apertium are automatically converted to this
-  format, with optional hand conversion of certain tags
+* CG compatible GiellaLT tags: the `+` separator is automatically converted to
+  a space, compounds are rendered using sub-readings, to make only the last
+  part of the compound visible to the default CG processing
+* Apertium tags: Apertium encapsulates all tags in `<>`, and use only
+  lowercase.  FST's intended for use with Apertium are automatically converted
+  to this format, with optional hand conversion of certain tags
 
 The tag format being used is indicated in the fst filename:
 

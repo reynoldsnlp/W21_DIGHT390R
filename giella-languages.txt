@@ -7,9 +7,9 @@ morgan hassell	mlhassell	Lithuanian	lit	https://en.wikipedia.org/wiki/Lithuanian
 lindsey leetham	thatonegirl001	Old French	fro	https://en.wikipedia.org/wiki/Old_French
 Spencer Poggemann	spencer-pog	Tagalog	tgl	https://en.wikipedia.org/wiki/Tagalog_language
 chris rogers	chrilro	I–apari	inp	https://en.wikipedia.org/wiki/I%C3%B1apari_language
-chris rogers	chrilro	Guazacap‡n	qda	https://en.wikipedia.org/wiki/Guazacap%C3%A1n_language
+	chrilro	Guazacap‡n	xin-x-qda	https://en.wikipedia.org/wiki/Guazacap%C3%A1n_language
 Robert Reynolds	reynoldsnlp	Rusyn	rue	https://en.wikipedia.org/wiki/Rusyn_language
 Chandler Rowe	chuychuychuy98	Choctaw	cho	https://en.wikipedia.org/wiki/Choctaw_language
 Jake Searle	jakesearle	Lower Sorbian	dsb	https://en.wikipedia.org/wiki/Lower_Sorbian_language
 Simon Smith	simonalligatorsmith	Esperanto	epo	https://en.wikipedia.org/wiki/Esperanto
-ryan young	ryandyoung	Burmese	bur/mya	https://en.wikipedia.org/wiki/Burmese_language
+ryan young	ryandyoung	Burmese	mya	https://en.wikipedia.org/wiki/Burmese_language
