@@ -1,13 +1,13 @@
 Name	github username	language	639-3	wikipedia/language-archives
-brandon agre	garghoul	Bokmål	nob	https://en.wikipedia.org/wiki/Bokm%C3%A5l
+brandon agre	garghoul	Bokm√•l	nob	https://en.wikipedia.org/wiki/Bokm%C3%A5l
 nathan browne	nobrowne	Maku	xak	http://www.language-archives.org/language/xak
 Cody Christopherson	xoyito	Qeqchi Maya	kek	https://en.wikipedia.org/wiki/Q%CA%BCeqchi%CA%BC_language
 ryan echols	rkechols	quenya	qya	https://en.wikipedia.org/wiki/Quenya
 morgan hassell	mlhassell	Lithuanian	lit	https://en.wikipedia.org/wiki/Lithuanian_language
 lindsey leetham	thatonegirl001	Old French	fro	https://en.wikipedia.org/wiki/Old_French
 Spencer Poggemann	spencer-pog	Tagalog	tgl	https://en.wikipedia.org/wiki/Tagalog_language
-chris rogers	chrilro	Iñapari	inp	https://en.wikipedia.org/wiki/I%C3%B1apari_language
-	chrilro	Guazacapán	xin-x-qda	https://en.wikipedia.org/wiki/Guazacap%C3%A1n_language
+chris rogers	chrilro	I√±apari	inp	https://en.wikipedia.org/wiki/I%C3%B1apari_language
+	chrilro	Guazacap√°n	xin-x-qda	https://en.wikipedia.org/wiki/Guazacap%C3%A1n_language
 Robert Reynolds	reynoldsnlp	Rusyn	rue	https://en.wikipedia.org/wiki/Rusyn_language
 Chandler Rowe	chuychuychuy98	Choctaw	cho	https://en.wikipedia.org/wiki/Choctaw_language
 Jake Searle	jakesearle	Lower Sorbian	dsb	https://en.wikipedia.org/wiki/Lower_Sorbian_language
