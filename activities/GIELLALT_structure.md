@@ -7,6 +7,7 @@ https://giellalt.uit.no/infra/Infrastructure.html
 
 Files that you will frequently use or edit are marked with `***`.
 
+```
 .
 ├── AUTHORS           # Add your name here
 ├── LICENSE           # If you don't like GPL3 license, change this
@@ -73,3 +74,4 @@ Files that you will frequently use or edit are marked with `***`.
 │       ├── mwe-dis.cg3
 │       ├── paradigm.abbr.txt
 │       └── tokeniser-disamb-gt-desc.pmscript  # Define alphabet, etc. for tokenizer
+```
