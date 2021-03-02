@@ -1,10 +1,15 @@
 # ISO 639-3 codes
 
+For naming new language repositories, the Giellatekno infrastructure follows
+[BCP47](https://en.wikipedia.org/wiki/IETF_language_tag), but always using ISO
+639-3 codes instead of 639-1.
+
 * https://en.wikipedia.org/wiki/ISO_639-3
 * https://en.wikipedia.org/wiki/List_of_ISO_639-3_codes
 
 Most wikipedia articles about languages have the ISO 639-3 code in the table
 on the right.
+
 
 # Weights
 
