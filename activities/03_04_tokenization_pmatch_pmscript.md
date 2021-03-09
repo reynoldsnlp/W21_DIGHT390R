@@ -186,7 +186,9 @@ $ echo "Борис бларгвит. Саша бларгвит. Все блар�
 ## Process a corpus to determine which words to add next
 
 Once you have a corpus of running text in your target language, you can easily
-discover/prioritize missing words using the following idiom:
+discover/prioritize missing words using the following idiom: (you may need to
+replace `egrep "\+\?\s+inf"` with something simpler like `grep "+?"`, depending
+on what version of grep you have on your operating system.
 
 ```bash
 $ echo "Борис бларгвит. Саша бларгвит. Все бларгвят." | hfst-tokenize tools/tokenisers/tokeniser-disamb-gt-desc.pmhfst | hfst-lookup -q src/analyser-gt-desc.hfst | egrep "\+\?\s+inf" | cut -f 1 | sort | uniq -c | sort -nr > todo_lexemes.tmp
@@ -198,7 +200,7 @@ $ echo "Борис бларгвит. Саша бларгвит. Все блар�
 $ echo "Борис бларгвит. Саша бларгвит. Все бларгвят."  \
       | hfst-tokenize tools/tokenisers/tokeniser-disamb-gt-desc.pmhfst  \
       | hfst-lookup -q src/analyser-gt-desc.hfst  \
-      | egrep $'+?\tinf'  \
+      | egrep "\+\?\s+inf"  \
       | cut -f 1  \
       | sort  \
       | uniq -c  \
