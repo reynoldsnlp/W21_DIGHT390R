@@ -6,6 +6,8 @@ Inspired by:
 https://github.com/panyang/Wikipedia_Word2vec/blob/master/v1/process_wiki.py
 
 Usage: python wikipedia2corpus.py "...-latest-pages-articles.xml.bz2" output-filename.txt
+
+Download your wikipedia dump from here: https://dumps.wikimedia.org/backup-index.html
 """
 import sys
 
