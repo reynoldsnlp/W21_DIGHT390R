@@ -1,0 +1,26 @@
+"<They>"
+    "they" <*> PRON PERS NOM PL3 SUBJ
+"<went>"
+    "go" V PAST VFIN
+"<to>"
+    "to" INFMARK>
+    "to" PREP
+"<the>"
+    "the" DET CENTRAL ART SG/PL
+"<zoo>"
+    "zoo" N NOM SG
+"<to>"
+    "to" INFMARK>
+    "to" PREP
+"<look>"
+    "look" V INF
+    "look" N SG
+"<at>"
+    "at" PREP
+"<the>"
+    "the" DET CENTRAL ART SG/PL
+"<bear>"
+    "bear" N NOM SG
+    "bear" V INF
+    "bear" V PRS NON2
+"<.>"
