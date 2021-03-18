@@ -130,3 +130,9 @@ $ cat my_corpus.txt | hfst-tokenize --giella-cg path-to-tokenizer.pmhfst | vislc
 
 $ cat my_corpus.txt | hfst-tokenize path-to-tokenizer.pmhfst | hfst-lookup -q path/to/analyser.gt-desc.hfstol | cg-conv -fC | vislcg3 -g my_grammar.cg3 > annotated_corpus.txt
 ```
+
+## Where to put your `cg3` file in GiellaLT framework
+
+For disambiguation, your `cg3` file should be saved as
+`src/cg3/disambiguation.cg3`. There is already a `cg3` file there that you can
+replace/adapt.

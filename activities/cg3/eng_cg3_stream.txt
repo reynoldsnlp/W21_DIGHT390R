@@ -20,7 +20,6 @@
 "<the>"
     "the" DET CENTRAL ART SG/PL
 "<bear>"
-    "bear" N NOM SG
     "bear" V INF
     "bear" V PRS NON2
 "<.>"
