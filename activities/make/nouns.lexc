@@ -2,8 +2,8 @@ LEXICON Nouns
 word Noun ;
 apple Noun ;
 chick Noun ;
+spy Noun ;
 
 LEXICON Noun
-+N+Sg: # ;
-+N+Pl:%{S%} # ;
-
++N+Sg:%> # ;
++N+Pl:%>%{S%} # ;
